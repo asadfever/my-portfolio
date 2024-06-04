@@ -1120,8 +1120,8 @@ header .logo a {
 	/* background-size: 113px 30px; */
 }
 header{
-	background-color: black;
-	width: 220px;
+	background-color: #313131;
+	/* width: 220px; */
 	height:66px;
 	display: inline;
 }
