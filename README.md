@@ -3,10 +3,10 @@ My website portfolio
 
 ## Screenshots:
 ### Computer View
-![alt text](https://github.com/alisolanki/Portfolio/blob/master/Portfolio.PNG)
+![alt text](https://github.com/asadfever/my-portfolio/portfoliopc.png)
 
 ### Mobile View
-![alt text](https://github.com/alisolanki/Portfolio/blob/master/Portfolio_mobile.PNG)
+![alt text](https://github.com/asadfever/my-portfolio/mobileview.png)
 
 ## Author
-* Mohd. Ali Solanki (https://youtube.com/AliSolanki)
+* Mirza Asad Iqbal (www.linkedin.com/in/mirza-asad-iqbal-8b5309149)
